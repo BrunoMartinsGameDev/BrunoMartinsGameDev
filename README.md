@@ -17,9 +17,9 @@ Tambem dou aula de C# voltado para o desenvolvimento de jogos usando a Unity.
 ![Empathetic](https://img.shields.io/badge/Empathetic-000000?style=for-the-badge)
 
 # GitHub Status
-![BrunoMartinsGameDev's Stats](https://github-readme-stats.vercel.app/api?username=BrunoMartinsGameDev&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
+![BrunoMartinsGameDev's Stats](https://github-readme-stats.vercel.app/api?username=BrunoMartinsGameDev&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true) ![BrunoMartinsGameDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMartinsGameDev&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
 ![BrunoMartinsGameDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrunoMartinsGameDev&theme=midnight-purple&hide_border=false)
-![BrunoMartinsGameDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMartinsGameDev&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
+
 
 <!--
 **BrunoMartinsGameDev/BrunoMartinsGameDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
